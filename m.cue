@@ -1,4 +1,4 @@
 package cuemodtest
 
-working: "maybe2"
+working: "hello world"
 
