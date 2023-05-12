@@ -1,3 +1,3 @@
-module: "github.com/rogpeppe/cuemodtest"
+module: "github.com/rogpeppe/cuemodtest@v0"
 
 // hello4
