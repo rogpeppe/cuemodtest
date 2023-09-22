@@ -1,8 +1,3 @@
 package cuemodtest
 
-working: "somethingv dsbvfdsbvdsxyabcde"
-
-
-
-
-
+working: "something for this demo"
