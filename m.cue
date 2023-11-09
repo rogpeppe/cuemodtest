@@ -1,3 +1,3 @@
 package cuemodtest
 
-working: "something for this demo"
+value: "foo bar"
