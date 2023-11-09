@@ -1,3 +1,3 @@
 package cuemodtest
 
-value: "foo bar"
+value: "hello peeps"
