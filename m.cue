@@ -1,3 +1,3 @@
 package cuemodtest
 
-value: "hello peeps"
+value: "hello friday demo"
